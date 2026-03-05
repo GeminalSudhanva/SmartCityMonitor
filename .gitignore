@@ -1,0 +1,19 @@
+# Large ML model — too big for GitHub (608MB). Store locally or use Git LFS.
+traffic_model.pkl
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
